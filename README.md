@@ -4,15 +4,9 @@
 
 🌐 Full-Stack & 🎮 Game Dev Explorer
 
-🎨 Doodler & Creative Sketch Enthusiast
-
 🏸 Badminton Aficionado
 
 🎗️ Daily LeetCode Grinder — always up for a puzzle!
-
-
-
-
 
 
 
