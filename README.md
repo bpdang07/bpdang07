@@ -4,8 +4,6 @@
 
 🌐 Full-Stack & 🎮 Game Dev Explorer
 
-🏸 Badminton Aficionado
-
 🎗️ Daily LeetCode Grinder — always up for a puzzle!
 
 
